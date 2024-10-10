@@ -34,7 +34,7 @@ sudo apt install apt-transport-https curl -y
 
 \`\`\`
 
-\## Install containerd
+\## Installation of  containerd
 
 To install Containerd, use the following commands:
 
